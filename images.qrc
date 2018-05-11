@@ -1,7 +1,11 @@
 <RCC>
     <qresource prefix="/images">
-        <file>apple.png</file>
-        <file>dot.png</file>
-        <file>head.png</file>
+        <file>ball.jpg</file>
+	<file>b.png</file>
+	<file>1.jpg</file>
+	<file>2.jpg</file>
+	<file>3.jpg</file>
+	<file>menu.png</file>
+	<file>c.png</file>
     </qresource>
 </RCC>
